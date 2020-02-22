@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tetris Game built with react
+A project from 'free code camp' used to learn more about react hooks
+
+### Game
+![react-tetris](https://user-images.githubusercontent.com/50600343/75100898-3de98b00-55a2-11ea-9f8d-c9b342a6747b.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
